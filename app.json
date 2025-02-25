@@ -10,14 +10,14 @@
     "newArchEnabled": true,
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.michaelsc331.GlucoseCompass"
+      "bundleIdentifier": "com.jmuit.GlucoseCompass"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.michaelsc331.GlucoseCompass"
+      "package": "com.jmuit.GlucoseCompass"
     },
     "web": {
       "bundler": "metro",
