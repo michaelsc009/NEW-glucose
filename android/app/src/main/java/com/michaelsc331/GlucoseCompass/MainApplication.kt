@@ -1,4 +1,4 @@
-package com.jmuit.GlucoseCompass
+package com.michaelsc331.GlucoseCompass
 
 import android.app.Application
 import android.content.res.Configuration
