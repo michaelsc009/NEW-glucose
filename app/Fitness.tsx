@@ -5,7 +5,7 @@ export default function Fitness() {
   return (
     <View style={styles.container}>
       <Text style={styles.title}>Fitness</Text>
-      <Text>This is the Fitness tab. Content goes here!</Text>
+      <Text>This is the Fitness tab. Content goes here!!!!!!</Text>
     </View>
   );
 }
