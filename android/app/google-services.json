@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "395729604581",
+    "project_id": "glucose-e0553",
+    "storage_bucket": "glucose-e0553.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395729604581:android:138c84dcd5f8e16e82e90c",
+        "android_client_info": {
+          "package_name": "com.michaelsc331.glucose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "395729604581-7dtrjv4bc5nhao2t8g95m11u2flg2uph.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.michaelsc331.glucose",
+            "certificate_hash": "e74bf08b2c05dea0588f85b66b207ccae300ce42"
+          }
+        },
+        {
+          "client_id": "395729604581-rl27f5r2viecl42cs3f3cb6fm6ve4cnj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFzzvmRZ5MOtHCw6ETQmgrlySJ6A5pfZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395729604581-rl27f5r2viecl42cs3f3cb6fm6ve4cnj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
